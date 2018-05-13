@@ -1,5 +1,5 @@
 <?php ob_start(); ?>
-<h1 class="heading">HiBekcy</h1>
+<h1 class="heading">Hello World</h1>
 <h1 class="heading">Bellevue Units</h1>
 <div class="row">
 	<div class="span12">
